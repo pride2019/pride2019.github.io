@@ -1,6 +1,6 @@
 ## Welcome to Pride Enchanta Owners and Residents page.
 
-This site will host the issues for sharing with management
+This site will host the issues posted by Owners and Residents for sharing with management of Pride Developers and Builders
 
 ### Rules for posting
 
