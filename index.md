@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Pride Enchanta Owners and Residents page.
 
-You can use the [editor on GitHub](https://github.com/pride2019/pride2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site will host the issues for sharing with management
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Rules for posting
 
-### Markdown
+1. Always use Polite, Friendly, Respectful, Polished communication with decorum civility
+2. State only the facts, not emotions
+3. Backup issues reported with verifiable claims, such as security is poor-most of the time they let anyone come inside
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Following is the place to post comments
+## Include Name if there are details to come back and ask for more information before resolution
+### After resolved, leave a thank you note, motivating for more issues resolution
 
-# Header 1
-## Header 2
-### Header 3
+<!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5cc13b6578e1c(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5cc13b6578e1c"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5cc13b6578e1c=document.createElement('script');fcs_5cc13b6578e1c.type="text/javascript";fcs_5cc13b6578e1c.src=ajaxpath_5cc13b6578e1c((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5cc13b6578e1c&s=#!5cc13b6578e1c");setTimeout("document.getElementById('fcs_div_5cc13b6578e1c').appendChild(fcs_5cc13b6578e1c)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pride2019/pride2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Website? Drop a note to pride.enchanta@hotmail.com This email is monitored once a week, every Friday.
