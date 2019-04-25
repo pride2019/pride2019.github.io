@@ -6,7 +6,7 @@ This site will host the issues posted by Owners and Residents for sharing with m
 
 1. Always use Polite, Friendly, Respectful, Polished communication with decorum civility
 2. State only the facts, not emotions
-3. Backup issues reported with verifiable claims, such as security is poor-most of the time they let anyone come inside
+3. Backup issues reported with verifiable claims, such as "security is poor-most of the time they let anyone come inside" can lead to useful resolution, than a generic comment.
 
 
 #### Following is the place to post comments
